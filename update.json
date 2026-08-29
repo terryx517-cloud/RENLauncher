@@ -1,0 +1,6 @@
+{
+  "version": "1.2.0",
+  "url": "https://github.com/terryx517-cloud/RENLauncher/releases/download/v1.2.0/RENLauncher.exe",
+  "sha256": "64F0DBB24D33D6EF66662C081413977C151947E078565FDC03E391E01F193C97",
+  "notes": "모드별 설치 페이지, 수동 다운로드 안내, 설치 상태 새로고침, GitHub 자동 업데이트 채널을 추가했습니다."
+}
