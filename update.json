@@ -1,6 +1,6 @@
 {
-  "version": "1.2.0",
-  "url": "https://github.com/terryx517-cloud/RENLauncher/releases/download/v1.2.0/RENLauncher.exe",
-  "sha256": "64F0DBB24D33D6EF66662C081413977C151947E078565FDC03E391E01F193C97",
-  "notes": "모드별 설치 페이지, 수동 다운로드 안내, 설치 상태 새로고침, GitHub 자동 업데이트 채널을 추가했습니다."
+  "version": "1.3.0",
+  "url": "https://github.com/terryx517-cloud/RENLauncher/releases/download/v1.3.0/RENLauncher.exe",
+  "sha256": "C26E422035E63CD27F34ECCBA235C7E8C4FFCE6D9F0B439DF0F9488006C9824A",
+  "notes": "모드 적용 자동 배치와 Mod Engine 3 프로필 생성, 3개 고정 모드 ON/OFF, 순정 실행 전환을 완성하고 Colors of The Storm을 제거했습니다."
 }
