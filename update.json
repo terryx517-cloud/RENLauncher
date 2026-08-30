@@ -1,6 +1,6 @@
 {
-  "version": "1.3.2",
-  "url": "https://github.com/terryx517-cloud/RENLauncher/releases/download/v1.3.2/RENLauncher.exe",
-  "sha256": "C5A7EF2F932332FF7A9998B8984CBF6B98B60237683DA7D6C8CCC4290942D4B7",
-  "notes": "ELDEN RING 1.17용 Seamless 1.9.9 호환 패치 v2를 내장했습니다. 심리스가 감지된 경우에만 자동 배치·로드하고 ERSC 초기화 후 게임 명령을 원상복구합니다. 첫 실행 자동 설치와 바탕화면 바로가기도 추가했습니다."
+  "version": "1.3.3",
+  "url": "https://github.com/terryx517-cloud/RENLauncher/releases/download/v1.3.3/RENLauncher.exe",
+  "sha256": "47D0595018C7BFC00D83787E649A67BD5D7E708957CAE3EF4BFE1F774D1280F2",
+  "notes": "Convergence 한글패치 공식 ZIP을 감지·적용하는 네 번째 고정 모드를 추가했습니다. 패치는 Convergence 뒤에 별도 Mod Engine 3 패키지로 로드되어 원본을 덮어쓰지 않고 ON/OFF할 수 있습니다."
 }
